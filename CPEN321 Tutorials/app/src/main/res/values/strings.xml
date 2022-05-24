@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CPEN321Tutorials</string>
+    <string name="location_button_caption">Get Location Permissions</string>
+    <string name="sign_out_button_caption">Sign Out</string>
+    <string name="maps_button_caption">Google Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

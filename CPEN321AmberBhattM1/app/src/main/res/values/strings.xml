@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CPEN321-AmberBhatt-M1</string>
+    <string name="button_favourite_city_caption">Favourite City</string>
+    <string name="button_location_caption">Location</string>
+    <string name="button_surprise_caption">Surprise</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_locations">LocationsActivity</string>
+    <string name="current_city_caption">Current City</string>
+    <string name="manufacturer_caption">Manufacturer</string>
+    <string name="model_caption">Model</string>
+</resources>
