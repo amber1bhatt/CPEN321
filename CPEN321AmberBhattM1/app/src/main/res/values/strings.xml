@@ -5,7 +5,10 @@
     <string name="button_surprise_caption">Surprise</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="title_activity_locations">LocationsActivity</string>
+    <string name="title_surprise_locations">SurpriseActivity</string>
     <string name="current_city_caption">Current City</string>
     <string name="manufacturer_caption">Manufacturer</string>
     <string name="model_caption">Model</string>
+    <string name="get_more_meme_button_caption">Another Wholesome Meme?</string>
+    <string name="click_again_caption">Sometimes the loaded meme does not exist, please click the button above</string>
 </resources>

@@ -48,6 +48,17 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
+        surpriseButton = findViewById(R.id.button_surprise);
+        surpriseButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                GetDataTask getDataTask = new GetDataTask();
+                getDataTask.execute();
+                Intent surpriseIntent = new Intent(MainActivity.this, SurpriseActivity.class);
+                startActivity(surpriseIntent);
+            }
+        });
     }
 
     private boolean checkLocationPermissions() {
